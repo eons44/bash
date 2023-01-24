@@ -6,7 +6,7 @@ cd ~/git/
 git clone https://github.com/eons44/bash
 cd bash
 echo '\[\033[0;36m\]' > ~/.theme
-./setup
+./setup.sh
 cd
 cat << EOF > ~/bash/fzf.bash
 # Setup fzf
