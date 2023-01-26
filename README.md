@@ -1,7 +1,7 @@
 # Séon's bashrc files
 
 ```
-sudo apt install git cowsay fortune ddate sl
+sudo apt install -y git cowsay fortune ddate sl
 cd ~/git/
 git clone https://github.com/eons44/bash
 cd bash
