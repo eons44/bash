@@ -1,2 +1,2 @@
-export repo_store=$HOME/.eons/cache
-export verbosity=5
+export REPO_STORE=$HOME/.eons/cache
+export VERBOSITY=5
